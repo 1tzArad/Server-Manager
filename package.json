@@ -1,0 +1,54 @@
+{
+  "name": "server_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuroam/Server-Manager.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuroam/Server-Manager/issues"
+  },
+  "homepage": "https://github.com/Kuroam/Server-Manager#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.10.0",
+    "@keyv/sqlite": "^3.6.4",
+    "axios": "^1.4.0",
+    "better-sqlite3": "^8.1.0",
+    "chalk": "^5.0.1",
+    "cli-color": "^2.0.3",
+    "discord-api-types": "^0.34.0",
+    "discord-image-generation": "^1.4.25",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^13.16.0",
+    "dotenv": "^10.0.0",
+    "easy-json-database": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "giphy-api": "^2.0.2",
+    "i": "^0.3.7",
+    "keyv": "^4.5.2",
+    "libsodium-wrappers": "^0.7.11",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.6",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.22",
+    "npm": "^8.15.0",
+    "promise-mysql": "^5.2.0",
+    "quick.db": "^7.1.3",
+    "undici": "^5.16.0",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13"
+  }
+}
