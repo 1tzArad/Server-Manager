@@ -1,0 +1,61 @@
+{
+  "Bot": {
+    "Token": "",
+    "Id": "",
+    "Name": "",
+    "Developers": [
+      { "Id": "", "type": "" },
+      { "Id": "", "type": "" },
+      { "Id": "", "type": "" }
+    ],
+    "Prefix": "",
+    "Version": "",
+    "Owner": ""
+  },
+  "Guild": {
+    "Id": "",
+    "Name": "",
+    "OwnerId": "",
+    "MemberRole": "",
+    "StaffRole": ""
+  },
+  "Ticket": {
+    "CategoryID": "",
+    "ChannelID": "",
+    "SupportersRoleID": ""
+  },
+  "Welcome": {
+    "ChannelID": "",
+    "WelcomersRoleId": ""
+  },
+  "Bye": {
+    "ChannelID": ""
+  },
+  "Logs": {
+    "ReadyLogChannelID": "",
+    "CommandLogChannelID": "",
+    "TicketLogChannelID": "",
+    "WelcomeLogChannelID": "",
+    "ByeLogChannelID": "",
+    "SuggectLogChannelID": "",
+    "ReportLogChannelID": "",
+    "ModerationLogChannelID": "",
+    "LevelLogChannelID": ""
+  },
+  "SuggestingSystem": {
+    "ChannelID": "",
+    "SupportersRoleID": ""
+  },
+  "ReportingSystem": {
+    "ChannelID": "",
+    "SupportersRoleID": ""
+  },
+  "LevelingSystem": {
+    "ChannelID": ""
+  },
+  "IntroduceSystem": {
+    "ChannelID": "",
+    "ReactionEmoji": "👋🏻"
+  },
+  "Emojis": {}
+}
